@@ -20,6 +20,14 @@ public class MyGitClass {
 		
 		
 		System.out.println("yeni kodu ekle");
+		
+		System.out.println("farkli kod");
+		
+		
+		// git'ten githup a gonderme yollari
+		// 1. git add .
+		// 2. git commit -m "versiyon"
+		// 
 
 
 	}
