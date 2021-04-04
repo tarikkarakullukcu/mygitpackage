@@ -29,7 +29,8 @@ public class MyGitClass {
 		// 2. git commit -m "versiyon"
 		// 
 
-
+		System.out.println("conflict");
+		
 	}
 
 }
