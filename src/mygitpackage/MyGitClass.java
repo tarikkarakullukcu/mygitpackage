@@ -15,7 +15,7 @@ public class MyGitClass {
 		System.out.println("yeni kodu sil");
 		
 
-		
+		System.out.println("yeni kodu silelim");
 		
 		
 		
