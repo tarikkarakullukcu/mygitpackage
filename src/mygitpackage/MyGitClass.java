@@ -11,10 +11,19 @@ public class MyGitClass {
 		System.out.println("uzak sunucudaki kodum");
 		System.out.println("12.ci satirdaki uzak kodum");
 		System.out.println("yeni kodu ekle");
+<<<<<<< HEAD
  
 		
 
 		System.out.println("17.ci satir bilgisayarim");
+=======
+		
+		
+		System.out.println("16.ci satirdaki UZAK SUNUCU");
+		
+		
+		
+>>>>>>> refs/remotes/origin/master
 	}
 
 }
