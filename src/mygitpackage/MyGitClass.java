@@ -21,7 +21,8 @@ public class MyGitClass {
 		
 		System.out.println("yeni kodu ekle");
 
-
+		System.out.println("conflict");
+		
 	}
 
 }
