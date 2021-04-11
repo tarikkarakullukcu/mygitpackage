@@ -15,18 +15,12 @@ public class MyGitClass {
 		System.out.println("yeni kodu sil");
 		
 
-		System.out.println("yeni kodu silelim");// githup a en son ekledigim degisiklik
 		
-		
-		
-		System.out.println("yeni kodu ekle");
-		
-		System.out.println("farkli kod");
 		
 		
 		
 
-		System.out.println("conflict 29");
+		
 		
 	}
 
