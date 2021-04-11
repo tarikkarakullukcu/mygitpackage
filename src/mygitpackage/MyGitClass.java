@@ -16,7 +16,7 @@ public class MyGitClass {
 		
 		System.out.println("yeni kod ekledim");
 
-		
+		System.out.println("bir daha kod ekledim");
 		
 		
 		
